@@ -1,0 +1,7 @@
+{
+  "mae_cpu_percent": 0.5862,
+  "rmse_cpu_percent": 1.738,
+  "r2": 0.9977,
+  "train_rows": 4800,
+  "test_rows": 1200
+}

@@ -1,0 +1,17 @@
+{
+  "mae_cpu_percent": 0.8794,
+  "rmse_cpu_percent": 1.1399,
+  "r2": 0.9745,
+  "train_rows": 4800,
+  "test_rows": 1200,
+  "features": [
+    "provider_id",
+    "hour",
+    "cpu",
+    "memory",
+    "requests",
+    "latency",
+    "instances"
+  ],
+  "version": "DROID V3"
+}

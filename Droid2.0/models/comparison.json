@@ -1,0 +1,20 @@
+{
+  "static (4 instances)": {
+    "overload_hours": 0,
+    "instance_hours": 2560,
+    "actions": 0,
+    "cost_vs_static_pct": 0.0
+  },
+  "reactive thresholds": {
+    "overload_hours": 1,
+    "instance_hours": 1724,
+    "actions": 156,
+    "cost_vs_static_pct": -32.7
+  },
+  "DROID (forecast + confidence)": {
+    "overload_hours": 2,
+    "instance_hours": 1707,
+    "actions": 163,
+    "cost_vs_static_pct": -33.3
+  }
+}

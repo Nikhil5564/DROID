@@ -1,0 +1,36 @@
+{
+  "static (4 instances)": {
+    "overload_hours": 0,
+<<<<<<< HEAD
+    "instance_hours": 2240,
+=======
+    "instance_hours": 2560,
+>>>>>>> 77c54d848864e79b54eb776101b2e551df56761b
+    "actions": 0,
+    "cost_vs_static_pct": 0.0
+  },
+  "reactive thresholds": {
+    "overload_hours": 1,
+<<<<<<< HEAD
+    "instance_hours": 1554,
+    "actions": 156,
+    "cost_vs_static_pct": -30.6
+  },
+  "DROID (forecast + confidence)": {
+    "overload_hours": 2,
+    "instance_hours": 1540,
+    "actions": 163,
+    "cost_vs_static_pct": -31.2
+=======
+    "instance_hours": 1724,
+    "actions": 156,
+    "cost_vs_static_pct": -32.7
+  },
+  "DROID (forecast + confidence)": {
+    "overload_hours": 2,
+    "instance_hours": 1707,
+    "actions": 163,
+    "cost_vs_static_pct": -33.3
+>>>>>>> 77c54d848864e79b54eb776101b2e551df56761b
+  }
+}
